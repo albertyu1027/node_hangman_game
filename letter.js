@@ -14,6 +14,7 @@ exports.initDisplay = function(){
 		exports.guessArr.push('_');
 		}
 	};
+
 }
 
 exports.displayWord = function(){

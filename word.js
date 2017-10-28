@@ -16,11 +16,11 @@ exports.checkWord = function(){
 	}
 
 	if(isNotEqual == true){
-		console.log("You guessed it!");
+		console.log("Good Job!");
 		runthis.playAgain();
 	}
 	else{
-		console.log("Sorry, incorrect.");
+		console.log("Sorry, that's incorrect.");
 		runthis.lives++;
 		runthis.requestInfo();
 	}
