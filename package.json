@@ -1,0 +1,22 @@
+{
+  "name": "hangthatman",
+  "version": "0.0.1",
+  "description": "I am building a Hangman Game with Node. Fun stuff :)",
+  "main": "hangmangame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertyu1027/node_hangman_game.git"
+  },
+  "author": "albert yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertyu1027/node_hangman_game/issues"
+  },
+  "homepage": "https://github.com/albertyu1027/node_hangman_game#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
